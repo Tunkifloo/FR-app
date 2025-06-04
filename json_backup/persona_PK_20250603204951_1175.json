@@ -3,7 +3,8 @@
     "nombre": "Adrian",
     "apellidos": "Cisneros",
     "correo": "acisnerosb1@upao.edu.pe",
-    "pk": "PK_20250602224812_5613"
+    "id_estudiante": "000243425",
+    "pk": "PK_20250603204951_1175"
   },
   "caracteristicas_faciales": [
     0.8823529481887817,
@@ -1032,7 +1033,7 @@
     2371.0
   ],
   "metadata": {
-    "fecha_creacion": "2025-06-02T22:48:21.278844",
+    "fecha_creacion": "2025-06-03T20:49:59.597994",
     "archivo_foto_original": "Adrian Nicolas.jpeg",
     "total_caracteristicas": 1024,
     "metodo_extraccion": "opencv_tradicional",
